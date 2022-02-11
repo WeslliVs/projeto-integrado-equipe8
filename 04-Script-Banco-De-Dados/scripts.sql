@@ -237,5 +237,3 @@ SELECT * FROM imovel IMV INNER JOIN usuario USR ON IMV.responsavel = USR.idUsuar
 
 
 
-create usuario
-insert usuario
